@@ -18,9 +18,9 @@
 
 ## Screen Shot
 
-[Preview of ReadMe](./Examples/Screenshot%202023-12-16%20174013.png)
-[Preview of ReadMe](./Examples/Screenshot%202023-12-16%20174135.png)
-[Preview of ReadMe](./Examples/Screenshot%202023-12-16%20174304.png)
+[Circle](./Examples/Screenshot%202023-12-16%20174013.png)
+[Square](./Examples/Screenshot%202023-12-16%20174135.png)
+[Triangle](./Examples/Screenshot%202023-12-16%20174304.png)
 
 # Links
 [Video explanation](https://drive.google.com/file/d/1Z-0MpT4w3j5ICl94edVJC4Kv9NWL1H8F/view)
